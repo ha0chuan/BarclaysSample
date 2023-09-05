@@ -1,0 +1,8 @@
+Customer Order 1
+Name: Shurun
+Email: ireneliusr@gmail.com
+Order:
+2 Spicy Ramen
+1 Sake
+1 Still Water
+1 Gyoza
